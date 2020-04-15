@@ -1,0 +1,34 @@
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said ok?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Pleased to be of service, please continue to type in some messages to me about ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : i ma not ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said i ma not ok?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : There was a glitch in the matrix, I could not comprehend what you just said, but I do not like being blamed for anything, so, the fault must lie with you. yes, so, now get to typing one more message so that I can correctly answer your queries about i ma not ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : I am not ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said I am not ok?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : I implore you to tell me more about I am not ok
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Can you be normal ?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Lets talk about something else I dont want to talk about this.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Why not ?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : It was folly to try and understand your mind, please do not disturb me anymore.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Please tell me?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : I actually dont care enough about you to tell you anything.Do continue talking to yourself
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Can you not treat me this way ?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Lets talk about something else I dont want to talk about this.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said Alright.?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Pleased to be of service, please continue to type in some messages to me about Alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : this is not alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said this is not alright.?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : There was a glitch in the matrix, I could not comprehend what you just said, but I do not like being blamed for anything, so, the fault must lie with you. yes, so, now get to typing one more message so that I can correctly answer your queries about this is not alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : I meant, you aren't really AI and this project is not alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : Hi. I am your Agent.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : You said I meant, you aren't really AI and this project is not alright.?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : I implore you to tell me more about I meant, you aren't really AI and this project is not alright.
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7 : Can we not do this?
+7c3659e7-4f32-4e84-9d0c-7f67100e9ae7's server : I actually dont care enough about you to tell you anything.Do continue talking to yourself

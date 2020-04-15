@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;
+charset=windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> DePaul&mdash;Elliott </title>
+</head>
+
+<body>
+
+    <font face="Comic Sans MS" size="1">
+        Version 1.1
+        <br> Updates:
+        <ol>
+            <li> none
+        </ol>
+        <font face="Cambria" size="3">
+
+            <center>
+                <h1>
+
+
+                    Assignment&mdash;Socket communication with your AI program<br>
+
+                </h1>
+            </center>
+            <p>
+
+                <br>
+
+            </p>
+            <h2> The required files, named <i> exactly </i> as follows: </h2>
+
+
+            <ul>
+
+                <p>
+                    <li> <strong> checklist-socket.html</strong>&mdash;This file with updates from <i> no
+</i> to <i> yes </i> as appropriate.
+
+                        <p>
+                            <li> <strong> AgentServer.java </strong>&mdash;(Or other language)
+                                <p>
+                                    <li> <strong> AgentClient.java </strong>&mdash;(Or other language)
+
+                                        <p>
+                                            <li> <strong> AISocketLog.txt </strong>&mdash; Client console log showing AI content being shipped back to your test client in string format.
+            </ul>
+
+            <strong>Change "No" to "Yes" as you complete the tasks: </strong>
+            <p></p>
+
+            <font face="Cambria" size="3">
+                <table border="1" width="90%">
+
+                    <tbody>
+                        <tr>
+                            <td align="Left"><b> <font face="Cambria" size="4">Task
+</font></b></td>
+                            <td align="Left"><b><font face="Cambria" size="4"> Complete?
+</font></b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+Srinath.V.S </b></td>
+                            <td align="left"><b>
+Yes                    </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="center"><b>
+--------------- ADMINISTRATION ----------------- </b></td>
+                            <td align="left"><b>
+                    </b></td>
+                        </tr>
+
+
+                        <tr>
+                            <td align="left"><b>
+Saved THIS file in plain text HTML format </b></td>
+                            <td align="left"><b>
+Yes                   </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+Files placed in a single directory, zipped together and submitted to D2L.
+</b></td>
+                            <td align="left"><b>
+Yes                   </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+Downloaded my D2L submission to verify not corrupt.</b></td>
+                            <td align="left"><b>
+Yes                    </b></td>
+                        </tr>
+
+
+                        <tr>
+                            <td align="left"><b>
+I described my working client connection and the "AI" returned at the bottom of this file.
+</b></td>
+                            <td align="left"><b>
+Yes                   </b></td>
+                        </tr>
+
+
+                        <tr>
+                            <td align="center"><b>
+--------------- ASSIGNMENT ----------------- </b></td>
+                            <td align="left"><b>
+                    </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+I ran the sample Java socket code provided and sent strings from client to server and back again.
+</b></td>
+                            <td align="left"><b>
+    Yes                    </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+I create a socket interface to my running AI code.
+</b></td>
+                            <td align="left"><b>
+Yes                   </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+My socket interface communicates with strings.
+</b></td>
+                            <td align="left"><b>
+Yes                    </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+My client retrieved some "meaningful" AI component from my running AI program.
+</b></td>
+                            <td align="left"><b>
+Yes                  </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+I created an AISocketLog.txt file showing some sort of AI communication.
+</b></td>
+                            <td align="left"><b>
+Yes                  </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+I wrote clear pedagogical comments in my code.
+</b></td>
+                            <td align="left"><b>
+Yes                   </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="center"><b>
+--------------- Bragging rights! ----------------- </b></td>
+                            <td align="left"><b>
+                    </b></td>
+                        </tr>
+
+                        <tr>
+                            <td align="left"><b>
+I used JSON or XML strings to communiate with my AI program.
+</b></td>
+                            <td align="left"><b>
+No                    </b></td>
+                        </tr>
+
+
+                    </tbody>
+                </table>
+
+            </font>
+            </p>
+            <h3>
+                <font face="Cambria" size="3"> Description of what you did. Additional comments if needed.
+
+                </font>
+            </h3>
+            <font face="Cambria" size="3">
+
+                Made a default query be returned whenever the client requests for something from the server. The server either asks for more information or downright neglects the client's query with its precoded statements. this is not true AI as there is no real language
+                processing going on here. It merely appends strings and statements with two types of messages and passes it on to the client. The statements are selected at random and do not reflect on the subject of the information being sent to the
+                server. The statements can be of two types, namely- inquisitive and negelctful. Inquisitive sentences ask the user to write more information and parrot out the information the user has supplied, while the neglectful sentences tell the
+                user that they do not wish to
+
+                <p>
+
+                    the client aggregates the information from the server and its own inputs to a string which is written to disk on the "quit" input. Each client has its own unique ID which allows the clients to save their own text files without overwriting the other client's
+                    inputs. this allows for clients to have their own individual logs.
+                    <p>
+
+                        The textfile is only saved on sending the quit command, directly terminating the console will not save the text log. this way, the user can determine which logs they want to save. </p>
+
+                    <p></p>
+
+                    <p>
+
+
+                    </p>
+            </font>
+        </font>
+    </font>
+</body>
+
+</html>
